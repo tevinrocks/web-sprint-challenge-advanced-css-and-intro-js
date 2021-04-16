@@ -65,7 +65,7 @@ After finishing your required elements, you can push your work further. These go
 * [ ] Student demonstrates and can explain a deep understanding of basic programming concepts when walking Team Lead through the explanation of their code.
 * [ ] Use advanced array methods (.map, .reduce, .filer) to refactor your MVP code (create an array of all artists born in the 1900s with .filter, for example) - do this seperate from your MVP tasks
 
----
+
 ## Resources
 
 📚[Best Practices for Responsive Design](https://www.browserstack.com/guide/responsive-design-breakpoints)
